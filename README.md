@@ -1,5 +1,5 @@
 # LibGraph
-Descrição do Repositório: Biblioteca em C para Linux com Manipulação de Grafos com Integração ao Graphviz
+Descrição do Repositório: Biblioteca em C para distribuições Linux Debian/Ubuntu com Manipulação de Grafos com Integração ao Graphviz
 
 Este repositório abriga uma biblioteca em linguagem C que permite a criação, manipulação e visualização de grafos. A principal funcionalidade desta biblioteca é a capacidade de ler informações de conexões a partir de arquivos .txt e representá-las como um grafo. Além disso, ela oferece integração direta com o Graphviz, uma ferramenta de código aberto desenvolvida pela AT&T Labs Research para a criação de gráficos a partir de scripts DOT.
 
