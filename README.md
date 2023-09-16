@@ -2,7 +2,7 @@
 -------------------------------------------------------------
 
 Para utilizar a funcionalidade de geração de representações visuais dos grafos neste projeto, você precisará ter o Graphviz instalado em seu sistema. O Graphviz é uma ferramenta de código aberto que permite criar 
-gráficos a partir de scripts DOT. Siga as instruções abaixo para instalar o Graphviz em várias distribuições Linux.
+gráficos a partir de scripts DOT. Siga as instruções abaixo para instalar o Graphviz.
 
 Debian/Ubuntu:
 
