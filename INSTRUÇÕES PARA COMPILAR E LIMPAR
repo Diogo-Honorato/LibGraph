@@ -1,0 +1,8 @@
+#INSTRUÇÕES PARA COMPILAR E LIMPAR
+--------------------------------------------------------------
+
+Para compilar o projeto, execute no terminal : 'make'
+
+Para limpar os arquivos objeto e o executável, execute no terminal : 'make clean'
+
+O executável gerado será chamado "grafo".
