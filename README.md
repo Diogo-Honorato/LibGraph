@@ -12,7 +12,7 @@ Você pode instalar o Graphviz facilmente utilizando o gerenciador de pacotes ap
 
 
 
-#INSTRUÇÕES PARA COMPILAR E LIMPAR
+#Instruções para compilar e limpar
 --------------------------------------------------------------
 
 Para compilar o projeto, execute no terminal : 'make'
