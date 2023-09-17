@@ -1,4 +1,4 @@
-#Instruções para Instalar o Graphviz para distribuições Linux Debian/Ubuntu
+# Instruções para Instalar o Graphviz para distribuições Linux Debian/Ubuntu
 ----------------------------------------------------------------------------
 
 Para utilizar a funcionalidade de geração de representações visuais dos grafos neste projeto, você precisará ter o Graphviz instalado em seu sistema. O Graphviz é uma ferramenta de código aberto que permite criar 
