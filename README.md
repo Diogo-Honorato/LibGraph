@@ -18,13 +18,16 @@ Exemplo de uso:
 
 # Criando arestas manualmente
 Para criar arestas entre os vértices, basta utilizar a função "AddEdge()" e escrever seu par de vértices.
+
 Exemplo de uso:
 ![Imagem da função AddEdge()](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/AddEdge.png)
 
 # Criando arestas com um arquivo.txt
 Para criar arestas entre os vértices utilizando um arquivo.txt, primeiro terá que possuir um arquivo neste formato:
 1 2
+
 2 5
+
 3 1
 Exemplo de arquivo.txt:
 ![Exemplo de arquivo.txt](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/Exemplo_txt.png)
