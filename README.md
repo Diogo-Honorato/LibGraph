@@ -69,6 +69,6 @@ Exemplo de uso:
 
 ![Exemplo de uso da função GraphPng()](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/GraphPng.png)
 
-Saída do arquivo.png:
+Saída do Graph.png:
 
 ![Imagem.png do grafo](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/Graph.png)
