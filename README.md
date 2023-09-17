@@ -63,7 +63,7 @@ Exemplo da saída no terminal:
 ![Exemplo de uso da função PrintGraph()](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/GraphTerminal.png)
 
 # Criando imagem.png do grafo
-Para gerar as imgens do grafo, será necessário a função "GraphPng()" e passar o caminho do arquivo.txt de conexões para a função.
+Para gerar as imgens do grafo, será necessário a função "GraphPng()" e passar o caminho do arquivo.txt de conexões para a função, será gerado dois arquivos um chamado "Graph.png" sendo a imagem do grafo e o "Graph.dot" sendo o arquivo tipo .DOT com os comandos para a interação com o Graphviz para gerar a imagem.png.
 
 Exemplo de uso:
 
