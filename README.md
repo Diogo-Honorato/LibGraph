@@ -29,9 +29,9 @@ Exemplo de uso:
 Para criar arestas entre os vértices utilizando um arquivo.txt, primeiro terá que possuir um arquivo neste formato:
 
 
-1 2  
-2 5  
-3 1
+1  2  
+2  5  
+3  1
 
 Exemplo de arquivo.txt:
 
