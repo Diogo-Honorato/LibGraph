@@ -12,7 +12,7 @@ Leitura de Arquivos de Conexões: A biblioteca suporta a leitura de arquivos .tx
 Integração com o Graphviz: A ferramenta Graphviz é utilizada para gerar representações visuais dos grafos criados. Ela permite a criação de arquivos .png a partir dos arquivos.txt de conexões dos grafos, tornando a visualização dos dados fácil e acessível.
 
 # Criando um grafo
-Para começar a criar e manipular grafos, você deve alocar um grafo chamando a função "create_graph()".
+Para começar a criar e manipular grafos, você deve alocar um grafo chamando a função "create_graph()".  
 Exemplo de uso:
 ![Imagem da função crete_graph()](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/create_graph.png)
 
@@ -23,12 +23,10 @@ Exemplo de uso:
 ![Imagem da função AddEdge()](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/AddEdge.png)
 
 # Criando arestas com um arquivo.txt
-Para criar arestas entre os vértices utilizando um arquivo.txt, primeiro terá que possuir um arquivo neste formato:
-1 2
-
-2 5
-
-3 1
+Para criar arestas entre os vértices utilizando um arquivo.txt, primeiro terá que possuir um arquivo neste formato:  
+1 2  
+2 5  
+3 1  
 Exemplo de arquivo.txt:
 ![Exemplo de arquivo.txt](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/Exemplo_txt.png)
 
