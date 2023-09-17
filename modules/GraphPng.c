@@ -49,7 +49,7 @@ void make_png_file(FILE *file_in,FILE *file_out)
         }
     }
 
-    fprintf(file_out,"\n}");
+    fprintf(file_out,"}");
 }
 
 void GraphPng(const char *file_name)
