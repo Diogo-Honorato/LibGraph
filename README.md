@@ -28,6 +28,7 @@ Para criar arestas entre os vértices utilizando um arquivo.txt, primeiro terá 
 1 2  
 2 5  
 3 1  
+
 Exemplo de arquivo.txt:
 ![Exemplo de arquivo.txt](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/Exemplo_txt.png)
 
