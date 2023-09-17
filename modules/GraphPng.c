@@ -5,7 +5,7 @@
 
 void command_prompt()
 {
-    int result = system("dot -Tpng Graph.dot -o Graph.png");
+    int result = system("neato -Tpng Graph.dot -o Graph.png");
     
     if (result == 0) 
     {
