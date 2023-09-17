@@ -51,6 +51,7 @@ Utilizando "EdgeFileReader()":
 ![Exemplo de uso da função PrintGraph()](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/PrintGraph_with_txt.png)
 
 Exemplo da saída no terminal:
+
 ![Exemplo de uso da função PrintGraph()](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/GraphTerminal.png)
 
 # Criando imagem.png do grafo
