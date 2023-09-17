@@ -26,7 +26,8 @@ Exemplo de uso:
 ![Imagem da função AddEdge()](https://github.com/Diogo-Honorato/LibGraph/blob/main/images/AddEdge.png)
 
 # Criando arestas com um arquivo.txt
-Para criar arestas entre os vértices utilizando um arquivo.txt, primeiro terá que possuir um arquivo neste formato:  
+Para criar arestas entre os vértices utilizando um arquivo.txt, primeiro terá que possuir um arquivo neste formato:
+
 1 2  
 2 5  
 3 1
