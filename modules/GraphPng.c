@@ -24,6 +24,7 @@ void make_png_file(FILE *file_in,FILE *file_out)
     int position,tam;
 
     fprintf(file_out,"digraph G{\n");
+    fprintf(file_out,"rankdir=LR;\nsize=6;\nratio=expand;\n");
 
     while(fgets(make_graph,50,file_in) != NULL)
     {
