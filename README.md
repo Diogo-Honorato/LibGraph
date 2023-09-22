@@ -1,11 +1,17 @@
 # LibGraph
-Descrição do Repositório: Biblioteca em C para distribuições Linux Debian/Ubuntu com Manipulação de Grafos com Integração ao Graphviz
+Descrição do Repositório: Biblioteca em C para distribuições Linux Debian/Ubuntu com Manipulação de Grafos direcionados com Integração ao Graphviz.
 
-Este repositório abriga uma biblioteca em linguagem C que permite a criação, manipulação e visualização de grafos. A principal funcionalidade desta biblioteca é a capacidade de ler informações de conexões a partir de arquivos .txt e representá-las como um grafo. Além disso, ela oferece integração direta com o Graphviz, uma ferramenta de código aberto desenvolvida pela AT&T Labs Research para a criação de gráficos a partir de scripts DOT.
+Este repositório abriga uma biblioteca em linguagem C que permite a criação, manipulação e visualização de grafos direcionados. A principal funcionalidade desta biblioteca é a capacidade de ler informações de conexões a partir de arquivos .txt e representá-las como um grafo. Além disso, ela oferece integração direta com o Graphviz, uma ferramenta de código aberto desenvolvida pela AT&T Labs Research para a criação de gráficos a partir de scripts DOT.
+
+# Atenção! Aviso Importante: A Biblioteca em Evolução!
+A biblioteca, atualmente, só aceita grafos direcionados. No entanto, gostaría de assegurar a todos que estou trabalhando incansavelmente para expandir minha funcionalidade e diversificar meus recursos.
+
+Estou atualmente imerso em projetos para adicionar novos recursos à biblioteca, que em breve estarão disponíveis em versões futuras, agradeço por fazerem parte desta jornada e por sua paciência.
+
 
 Principais Recursos:
 
-Criação e Manipulação de Grafos: Com esta biblioteca, você pode facilmente criar grafos direcionados ou não-direcionados e adicionar nós e arestas a eles.
+Criação e Manipulação de Grafos direcionados: Com esta biblioteca, você pode facilmente criar grafos direcionados e adicionar nós e arestas a eles.
 
 Leitura de Arquivos de Conexões: A biblioteca suporta a leitura de arquivos .txt que descrevem as conexões entre os nós do grafo. Isso permite a importação rápida e conveniente de dados para representação gráfica.
 
