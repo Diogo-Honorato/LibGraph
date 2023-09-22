@@ -9,7 +9,7 @@ A biblioteca, atualmente, só aceita grafos direcionados. No entanto, gostaría 
 Estou atualmente imerso em projetos para adicionar novos recursos à biblioteca, que em breve estarão disponíveis em versões futuras, agradeço por fazerem parte desta jornada e por sua paciência.
 
 
-Principais Recursos:
+# Principais Recursos:
 
 Criação e Manipulação de Grafos direcionados: Com esta biblioteca, você pode facilmente criar grafos direcionados e adicionar nós e arestas a eles.
 
