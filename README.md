@@ -3,10 +3,8 @@ Descrição do Repositório: Biblioteca em C para distribuições Linux Debian/U
 
 Este repositório abriga uma biblioteca em linguagem C que permite a criação, manipulação e visualização de grafos direcionados. A principal funcionalidade desta biblioteca é a capacidade de ler informações de conexões a partir de arquivos .txt e representá-las como um grafo. Além disso, ela oferece integração direta com o Graphviz, uma ferramenta de código aberto desenvolvida pela AT&T Labs Research para a criação de gráficos a partir de scripts DOT.
 
-# Atenção! Aviso Importante: A Biblioteca em Evolução!
-A biblioteca, atualmente, só aceita grafos direcionados. No entanto, gostaría de assegurar a todos que estou trabalhando incansavelmente para expandir minha funcionalidade e diversificar meus recursos.
-
-Estou atualmente imerso em projetos para adicionar novos recursos à biblioteca, que em breve estarão disponíveis em versões futuras, agradeço por fazerem parte desta jornada e por sua paciência.
+# Atenção! Aviso Importante
+A biblioteca, atualmente, só aceita grafos direcionados. 
 
 
 # Principais Recursos:
