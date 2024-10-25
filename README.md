@@ -1,7 +1,7 @@
 # LibGraph
 Descrição do Repositório: Biblioteca em C para distribuições Linux Debian/Ubuntu com Manipulação de Grafos direcionados com Integração ao Graphviz.
 
-Este repositório abriga uma biblioteca em linguagem C que permite a criação, manipulação e visualização de grafos direcionados. A principal funcionalidade desta biblioteca é a capacidade de ler informações de conexões a partir de arquivos .txt e representá-las como um grafo. Além disso, ela oferece integração direta com o Graphviz, uma ferramenta de código aberto desenvolvida pela AT&T Labs Research para a criação de gráficos a partir de scripts DOT.
+Este repositório abriga uma biblioteca em linguagem C que permite a criação, manipulação e visualização de grafos direcionados. A principal funcionalidade desta biblioteca é a capacidade de ler informações de conexões a partir de arquivos .txt e representá-las como um grafo. Além disso, ela oferece integração direta com o Graphviz, uma ferramenta de código aberto desenvolvida pela AT&T Labs Research para a criação de gráficos a partir de scripts DOT. [Link](https://github.com/Diogo-Honorato/LibGraph/tree/Modulos-e-Makefile) para acessar código fonte da biblioteca.
 
 # Atenção! Aviso Importante
 A biblioteca, atualmente, só aceita grafos direcionados. 
